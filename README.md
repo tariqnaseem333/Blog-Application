@@ -1,19 +1,7 @@
-# blog2
+# Blog Application
 
-## Project setup
-```
-npm install
-```
+It's a blog application where user can add a new blog post and can view other people's blog posts using tag\
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1.) View other people blog posts\
+2.) Search other people blog posts by using hashtags\
+2.) Create your own blog posts by giving it a title, body and tags 
